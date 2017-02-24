@@ -39,6 +39,5 @@ cmap w!! w !sudo tee > /dev/null %
 :map tt :e!<cr>
 :map vs :vsplit<cr><C-w>l
 :map vt :split<cr><C-w>k
-:map op :open .<cr>
 :imap uu <C-n>
 
